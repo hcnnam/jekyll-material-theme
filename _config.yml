@@ -16,20 +16,8 @@ project_one_icon: location_on
 
 project_two: Best Price
 project_two_description: Compare Price By Me In HasBrain!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two_url: http://bestcomparison.herokuapp.com/
 project_two_icon: photo_camera
-
-
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: http://bestcomparison.herokuapp.com/
-project_three_icon: hotel
-
-
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
-project_four_icon: restaurant
 
 portfolio_heading: Portfolio
 portfolio_type: cards
@@ -39,54 +27,31 @@ syntax_highlighting: true
 
 skills:
   - name: android
-  - name: apple
-  - name: atom
   - name: c
-  - name: chrome
   - name: cplusplus
   - name: csharp
   - name: css3
   - name: docker
   - name: git
-  - name: github
-  - name: gitlab
-  - name: go
-  - name: google
-  - name: gradle
-  - name: heroku
   - name: html5
-  - name: itellij
   - name: java
   - name: javascript
-  - name: linux
-  - name: mongodb
   - name: mysql
   - name: nodejs
   - name: oracle
   - name: photoshop
   - name: php
-  - name: phpstorm
   - name: python
-  - name: pycharm
-  - name: slack
-  - name: swift
-  - name: tomcat
-  - name: trello
   - name: ubuntu
-  - name: vim
   - name: visualstudio
-  - name: webstorm
-  - name: windows8
-  - name: wordpress
-  - name: zend
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
-project_button: facebook
+project_button: Visit
 
-facebook: https://www.facebook.com/hcnnam.bku
-medium: https://medium.com
+#facebook: https://www.facebook.com/hcnnam.bku
+#medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
