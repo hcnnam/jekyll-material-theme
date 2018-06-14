@@ -23,7 +23,7 @@ object HelloWorld {
 }
 {% endhighlight %}
 
-Example:
+Example Java:
 
 {% highlight java %}
 /******************************************************************************
