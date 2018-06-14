@@ -10,12 +10,12 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "Chat Project"
-project_one_description: Chat Zone!
+project_one_description: Chat Zone  By Me In HasBrain!
 project_one_url: http://testhasbrain.herokuapp.com/
 project_one_icon: location_on
 
 project_two: Best Price
-project_two_description: Compare Price!
+project_two_description: Compare Price By Me In HasBrain!
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
 
@@ -38,23 +38,14 @@ syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: amazonwebservices
   - name: android
   - name: angularjs
   - name: apache
-  - name: appcelerator
   - name: apple
   - name: atom
   - name: babel
-  - name: backbonejs
-  - name: bitbucket
-  - name: bootstrap
-  - name: bower
   - name: c
   - name: chrome
-  - name: codeigniter
-  - name: coffescript
-  - name: confluence
   - name: cplusplus
   - name: csharp
   - name: css3
@@ -83,8 +74,6 @@ skills:
   - name: gulp
   - name: heroku
   - name: html5
-  - name: ie10
-  - name: illustrator
   - name: inkscape
   - name: itellij
   - name: java
@@ -105,33 +94,21 @@ skills:
   - name: photoshop
   - name: php
   - name: phpstorm
-  - name: protractor
-  - name: postgresql
   - name: python
   - name: pycharm
   - name: rails
   - name: react
-  - name: redhat
-  - name: redis
-  - name: ruby
-  - name: rubymine
   - name: safari
-  - name: sass
-  - name: sequelize
   - name: slack
   - name: sourcetree
   - name: ssh
   - name: swift
-  - name: symfony
   - name: tomcat
   - name: travis
   - name: trello
-  - name: twitter
-  - name: typescript
   - name: ubuntu
   - name: vim
   - name: visualstudio
-  - name: vuejs
   - name: webpack
   - name: webstorm
   - name: windows8
@@ -142,7 +119,7 @@ skills:
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
-project_button: Github
+project_button: Facebook
 
 facebook: https://www.facebook.com/hcnnam.bku
 medium: https://medium.com
