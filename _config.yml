@@ -39,87 +39,51 @@ syntax_highlighting: true
 
 skills:
   - name: android
-  - name: angularjs
-  - name: apache
   - name: apple
   - name: atom
-  - name: babel
   - name: c
   - name: chrome
   - name: cplusplus
   - name: csharp
   - name: css3
-  - name: cucumber
-  - name: d3js
-  - name: debian
-  - name: devicon
-  - name: django
   - name: docker
-  - name: doctrine
-  - name: dot-net
-  - name: drupal
-  - name: erlang
-  - name: facebook
-  - name: firefox
-  - name: foundation
-  - name: gatling
-  - name: gimp
   - name: git
   - name: github
   - name: gitlab
   - name: go
   - name: google
   - name: gradle
-  - name: grunt
-  - name: gulp
   - name: heroku
   - name: html5
-  - name: inkscape
   - name: itellij
   - name: java
-  - name: jasmine
   - name: javascript
-  - name: laravel
-  - name: less
   - name: linux
-  - name: meteor
-  - name: mocha
   - name: mongodb
-  - name: moodle
   - name: mysql
-  - name: nginx
   - name: nodejs
-  - name: nodewebkit
   - name: oracle
   - name: photoshop
   - name: php
   - name: phpstorm
   - name: python
   - name: pycharm
-  - name: rails
-  - name: react
-  - name: safari
   - name: slack
-  - name: sourcetree
-  - name: ssh
   - name: swift
   - name: tomcat
-  - name: travis
   - name: trello
   - name: ubuntu
   - name: vim
   - name: visualstudio
-  - name: webpack
   - name: webstorm
   - name: windows8
   - name: wordpress
-  - name: yii
   - name: zend
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
-project_button: Facebook
+project_button: facebook
 
 facebook: https://www.facebook.com/hcnnam.bku
 medium: https://medium.com
