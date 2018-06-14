@@ -31,7 +31,6 @@ skills:
   - name: cplusplus
   - name: csharp
   - name: css3
-  - name: docker
   - name: git
   - name: html5
   - name: java
@@ -42,7 +41,6 @@ skills:
   - name: photoshop
   - name: php
   - name: python
-  - name: ubuntu
   - name: visualstudio
 
 icon_size: 50 # font-size of icons in px
